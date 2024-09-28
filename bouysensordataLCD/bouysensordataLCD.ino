@@ -9,7 +9,7 @@ int d7=12;
 LiquidCrystal lcd(rs,en,d4,d5,d6,d7);
 
 
-// Thermometer
+// Thermometer libraries
 #include <Wire.h>
 
 #include <OneWire.h>
